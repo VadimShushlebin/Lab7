@@ -29,7 +29,7 @@
 
 <img width="414" height="895" alt="Block-chema7" src="https://github.com/user-attachments/assets/ebfd2da7-6e81-4259-bb40-f76872a2e1b9" />
 
-https://github.com/VadimShushlebin/Lab04/blob/master/Block%20chema.png
+https://github.com/VadimShushlebin/Lab7/blob/master/Block-chema7.png
 
 ## 2. Реализация программы
 
