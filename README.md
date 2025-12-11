@@ -27,9 +27,9 @@
 
 ### Блок-схема
 
-<img width="414" height="895" alt="Block-chema7" src="https://github.com/user-attachments/assets/ebfd2da7-6e81-4259-bb40-f76872a2e1b9" />
+<img width="410" height="895" alt="Block-chema_7" src="https://github.com/user-attachments/assets/0c538c8b-b964-43cc-8ead-f9084a6aa357" />
 
-https://github.com/VadimShushlebin/Lab7/blob/master/Block-chema7.png
+https://github.com/VadimShushlebin/Lab7/blob/master/Block-chema_7.png
 
 ## 2. Реализация программы
 
